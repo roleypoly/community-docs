@@ -9,7 +9,7 @@ Roleypoly is a bot that, while in a discord server one is into, allow one to pic
 
 ## How do I pick roles using Roleypoly?
 **Firstly**, you need to access the user interface. To do so, you have to click on the link related to the server in which you want to pick roles from. 
-You can summon the link by mentioning Roleypoly in a chat (@Roleypoly), or by asking for the link to the server’s administrator(s). You may also find it by opening [roleypoly.com][roleypoly-home], and searching for it on the sidebar.
+You can summon the link by mentioning Roleypoly in a chat (@Roleypoly), or by asking for the link to the server’s administrator(s).
 
 **Secondly**, click [Sign in with Discord], connect to Discord if asked, then [Authorize]. It is necessary to link your account with the server’s Roleypoly page.
 
