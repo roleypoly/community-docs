@@ -28,11 +28,7 @@ Click [Continue], then [Authorize], then clear the Captcha.
 Then, go to your Server Settings, Roles, and find ‘roleypoly’ in the roles list.
 Now remember that **_roleypoly will only let you manage the roles that are under it's own role_**, therefore drag the bot's role or any role up / down accordingly in your discord server’s roles list.
 
-<<<<<<< HEAD
 **Thirdly**, head to the Roleypoly server page by pinging the bot (@Roleypoly) and following the link it gives you, then it's time to select which roles you want your members to be able to pick!
-=======
-**Thirdly**, head to the Roleypoly server page by pinging the bot (@Roleypoly) and follwoing the link it gives you, then it's time to select which roles you want your members to be able to pick!
->>>>>>> 09825a5 (Update README.md)
 
 On the central area is a text zone, Server Message, where you can set up a message for your members when they’ll pick their roles.  
 Under it, this is the roles area. Add a new category, configure it and hit [Save Changes].  
