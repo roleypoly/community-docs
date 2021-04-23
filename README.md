@@ -36,5 +36,7 @@ Do not set it as hidden if you want your members to see it.
 Once you have a category up and running, click on the little pencil next to Roles (Edit Categories). On the right area appear all the roles Roleypoly can manage. Drag those you want to be pickable in the category/ies then hit [Save Changes] once more.  
 And… all done!
 
+**Only people who authenticate with a Discord account that has the `Manage Roles` privilege can edit the Roleypoly page.**
+
 [roleypoly-home]: https://roleypoly.com
 [roleypoly-discord]: https://discord.gg/PWQUVsd
